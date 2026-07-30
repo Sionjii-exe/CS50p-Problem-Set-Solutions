@@ -1,3 +1,4 @@
+# First attempt
 # text = input()
 
 # if ":)" in text:
@@ -7,6 +8,9 @@
 #     newtext = text.replace(":(", "🙁")
 
 # print(newtext)
+#====================================================
+
+# Second attempt
 
 def main():
     text = input("Please enter a sentence: ")
