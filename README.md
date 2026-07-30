@@ -13,10 +13,7 @@ My solutions and projects from Harvard's CS50P (Introduction to Programming with
 ## Goal
 Build a strong programming foundation before starting a Computer Science degree.
 
-# ============================================================================ #
-
 ## Progress ##
-
 ### Week 0: Functions and Variables
 - indoor.py
 - playback.py
